@@ -1,0 +1,5 @@
+Negro  #050d0d
+Gris    #b9d1cf
+Turquesa claro #04a69b
+turquesa oscuro #2d8a83
+blanco #fcfdfd  
